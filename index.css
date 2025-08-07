@@ -3,6 +3,20 @@
     padding: 0;
   }
 
+  body {
+    font-family: 'Courier New', Courier, monospace;
+    background: #f7f5ff;
+    color: #333;
+  }
+
+  .title {
+    font-size: 2rem;
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+    color: #333;
+  }
+
   .canva {
     background: #f7f5ff;
     height: 100vh;
